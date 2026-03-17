@@ -2,7 +2,7 @@
 
 require_once "controllers/AuthController.php";
 
-$acao = $_GET['acao'] ?? null;
+$acao = $_GET['acao'] ?? null; // Verifica se 'acao' está presente na URL, caso contrário, atribui null
 
 $controller = new AuthController();
 

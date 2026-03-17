@@ -1,0 +1,3 @@
+- Mostrar mensagem: “Login inválido” estilizado 
+- Mostrar mensagem: “Cadastro realizado com sucesso” 
+- Bloquear acesso ao dashboard sem login
